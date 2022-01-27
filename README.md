@@ -130,7 +130,7 @@ supports all Jetson modules.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Que_break_detection/blob/main/IMG_20220125_115719.jpg)
 
 ## Proposed System
 
